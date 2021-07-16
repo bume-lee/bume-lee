@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Carpediem😎&fontAlign=80&fontAlignY=40&color=gradient)
 
 
-### Hi there 👋
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 Hello My name is bumhee 🇰🇷 , I am a developer working at ![VNTG](https://img.shields.io/badge/VNTG-Corp-red?style=flat-square&logoColor=white)
 
@@ -15,13 +15,13 @@ Hello My name is bumhee 🇰🇷 , I am a developer working at ![VNTG](https://i
 <!-- 
 ![PYTHON](https://img.shields.io/badge/PYTHON-%E2%98%85%E2%98%86%E2%98%86%E2%98%86%E2%98%86-0696D7?style=plastic&logo=Python&logoColor=white) ![JAVA](https://img.shields.io/badge/JAVA&J2EE-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%86-3DDC84?style=plastic&logo=java&logoColor=white)  
 -->
-<img alt="NodeJS" src="https://img.shields.io/badge/node.js-%2343853D.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"/>
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
-<img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
-<img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
-<img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
-<img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+[![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white)](https://nodejs.org/)
+![HTML5 badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3 badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![JavaScript badge](https://img.shields.io/badge/-JavaScript-F29400?style=flat-square&logo=javascript&logoColor=white)
+[![Java badge](https://img.shields.io/badge/-JAVA-007396?style=flat-square&logo=java&logoColor=white&link=https://www.java.com)](https://www.java.com)
+[![Spring badge](https://img.shields.io/badge/-Spring_Boot-6DB33F?style=flat-square&logo=spring&logoColor=white&link=https://spring.io/projects/spring-boot)](https://spring.io/projects/spring-boot)
+[![Python Badge](https://img.shields.io/badge/Python-181717?style=flat-square&logo=Github&logoColor=white&link=https://github.com/bume-lee/)](https://github.com/bume-lee)
 
 
 ### :mailbox_with_mail: Contacts
