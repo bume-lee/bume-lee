@@ -4,9 +4,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=Carpediem😎&fontAlign=80&fontAlignY=40&color=gradient)
 
 
-### Hi there 👋 🇰🇷
+### Hi there 👋
 
-Hello My name is bumhee, I am a developer working at ![VNTG](https://img.shields.io/badge/VNTG-Corp-red?style=flat-square&logoColor=white)
+Hello My name is bumhee 🇰🇷 , I am a developer working at ![VNTG](https://img.shields.io/badge/VNTG-Corp-red?style=flat-square&logoColor=white)
 
 
 <img src="https://github.com/bume-lee/bume-lee/blob/master/animation.gif?raw=true" width="300">
