@@ -9,7 +9,7 @@
 Hello My name is bumhee, I am a developer working at ![VNTG](https://img.shields.io/badge/VNTG-Corp-red?style=flat-square&logoColor=white)
 
 
-<img src="https://github.com/bume-lee/bumheelee/raw/master/animation.gif" width="300">
+<img src="https://github.com/bume-lee/bume-lee/blob/master/animation.gif?raw=true" width="300">
 
 ### :cyclone: Languages
 <!-- 
