@@ -25,4 +25,4 @@ Hello My name is bumhee 🇰🇷 , I am a developer working at [![VNTG](https://
 
 
 ### :mailbox_with_mail: Contacts
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bum825@gmail.com)](mailto:harimkang4422@gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/lbums)](https://www.facebook.com/lbums) 
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:bum825@gmail.com)](mailto:bum825gmail.com) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/lbums)](https://www.facebook.com/lbums) 
