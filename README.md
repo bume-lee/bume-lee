@@ -6,7 +6,7 @@
 
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-Hello My name is bumhee 🇰🇷 , I am a developer working at [![LG cns](https://img.shields.io/badge/LG-cns-red?style=flat-square&logoColor=white)](https://blog.vntgcorp.com/)
+Hello My name is bumhee 🇰🇷 , I am a developer working at [![VNTG](https://img.shields.io/badge/VNTG-Corp-red?style=flat-square&logoColor=white)](https://blog.vntgcorp.com/)
 
 
 <img src="https://github.com/bume-lee/bume-lee/blob/master/animation.gif?raw=true" width="300">
